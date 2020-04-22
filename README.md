@@ -13,11 +13,6 @@
 </article>
   </div>
 
-    </div>
-
-  
-
-  
-  </body>
+</body>
 </html>
 

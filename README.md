@@ -5,6 +5,7 @@
 
   <div id="readme" class="Box-body readme blob js-code-block-container px-5">
     <article class="markdown-body entry-content" itemprop="text">
+	 <b>项目已不再维护更新，请不要在生产力服务器上测试</b>
 	<h1><a id="user-content-linux-netspeed" class="anchor" aria-hidden="true" href="#linux-netspeed"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Linux-NetSpeed</h1>
   <p><strong>支持系统：</strong><code>Centos 6+</code>/<code>Debian 7+</code>/<code>Ubuntu 14+</code>，<code>BBR</code>魔改版不支持<code>Debian 8</code>。<br><strong>注意：</strong>该脚本在<code>Vultr</code>各个系统均测试通过，如果期间有出现任何问题，可向原作者反映帮助改善。<br>运行以下命令：</p><pre><code>wget -N --no-check-certificate "https://raw.githubusercontent.com/dlxg/Linux-NetSpeed/master/tcp.sh" &amp;&amp; chmod +x tcp.sh &amp;&amp; ./tcp.sh</code></pre>
 
